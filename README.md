@@ -2,7 +2,7 @@
 
 ## Abstract
 
-My first public project of machine learning models.  It consists in a comparison of different classification algorithms to determine the location of a wireless terminal.  For each of the classification models created different hyperparameters where used.  Then to generate the confusion matrix, the hyperparameters with best score where used.
+My first public project of machine learning models.  It consists in a comparison of different classification algorithms to determine the location of a wireless terminal.  For each classification model different hyperparameters where used.  Then to generate the confusion matrix, the hyperparameters with best score where used.
 
 ## Source Dataset
 
